@@ -1,0 +1,19 @@
+.selector {
+  display: flex inline;
+  margin: 0.2 rem;
+}
+
+.valor {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  font-size: 2rem;
+  background-color: negro;
+  color: white;
+}
+
+button {
+  height: 3rem;
+}
